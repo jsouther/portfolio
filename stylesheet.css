@@ -1,0 +1,76 @@
+body{
+  background-image: url("background.jpg");
+}
+
+h1{
+  color:white;
+  text-align:center;
+  padding:0.5em;
+  margin:0px;
+}
+
+h2{
+  color:white;
+  text-align:center;
+  padding:0.5em;
+  padding-top: 0px;
+  margin:0px;
+}
+
+h3{
+  margin:0px;
+}
+
+.carousel{
+  width:800px;
+  margin: 0 auto;
+}
+
+ol.carousel-indicators li, ol.carousel-indicators li.active {
+  width:20px;
+  height:20px;
+  border-radius:25px;
+  border:1px solid #000000;
+}
+
+.carousel-control-prev-icon{
+  
+}
+
+.carousel-item img {
+  width:auto;
+  height:650px;
+  max-height:650px;
+}
+
+.linkImg{
+  display:block;
+  margin:auto;
+  width:100px;
+  height: 100px;
+}
+
+.btn-lg{
+  display:block;
+  margin:auto;
+  width:250px;
+}
+
+.btn-link{
+  display:block;
+  width:99%;
+  text-align:left
+}
+
+.list-group{
+  padding:0.5em;
+}
+
+#rangerDangerEx{
+  overflow-y:scroll;
+  max-width:1139px;
+  height:300px;
+  margin-left:0px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
