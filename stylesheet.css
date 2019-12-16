@@ -45,9 +45,10 @@ ol.carousel-indicators li, ol.carousel-indicators li.active {
 
 .linkImg{
   display:block;
-  margin:auto;
-  width:100px;
-  height: 100px;
+  float:  right; 
+  width:50px;
+  height: 50px;
+  margin: 2em;
 }
 
 .btn-lg{
