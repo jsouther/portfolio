@@ -22,24 +22,6 @@ h3{
   margin:0px;
 }
 
-.carousel{
-  width:800px;
-  margin: 0 auto;
-}
-
-ol.carousel-indicators li, ol.carousel-indicators li.active {
-  width:20px;
-  height:20px;
-  border-radius:25px;
-  border:1px solid #000000;
-}
-
-.carousel-item img {
-  width:auto;
-  height:650px;
-  max-height:650px;
-}
-
 .linkImg{
   width:2em;
   height: 2em;
@@ -76,7 +58,7 @@ ol.carousel-indicators li, ol.carousel-indicators li.active {
   }
 }
 
-.col{
+.col-8{
   padding-top: 15px;
   padding-bottom: 15px;
 }
