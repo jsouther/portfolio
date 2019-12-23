@@ -1,5 +1,6 @@
-body{
-  background-image: url("background.jpg");
+html, body {
+    margin: 0;
+    height: 100%;
 }
 
 h1{
@@ -69,7 +70,7 @@ ol.carousel-indicators li, ol.carousel-indicators li.active {
   margin-bottom:10px;
 }
 
-@media (min-width: 576px) {
+@media {
   .jumbotron {
     padding: 1em;
   }
