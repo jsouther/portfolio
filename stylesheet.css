@@ -3,9 +3,9 @@ body{
 }
 
 h1{
-  color:white;
+  text-dark;
   text-align:center;
-  padding:0.5em;
+  padding:0.1em;
   margin:0px;
 }
 
@@ -67,4 +67,10 @@ ol.carousel-indicators li, ol.carousel-indicators li.active {
   margin-left:0px;
   margin-top:10px;
   margin-bottom:10px;
+}
+
+@media (min-width: 576px) {
+  .jumbotron {
+    padding: 1em;
+  }
 }
